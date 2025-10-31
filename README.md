@@ -43,8 +43,10 @@ Este sistema permite gestionar de manera completa la operación de una tienda, d
 
 ---
 
-📸 Vista del proyecto
+## 📸 Vista del proyecto
 ![AED2_PROYECTO](https://github.com/user-attachments/assets/e69477a6-f866-49fd-b7b2-ba0f0102d420)
+
+---
 
 ## 🚀 Cómo Ejecutar el Proyecto
 1. Clonar el repositorio:  
